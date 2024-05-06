@@ -1,4 +1,4 @@
-Welcome to Filmora: Your Ultimate Movie Companion! 🎬
+# Welcome to Filmora: Your Ultimate Movie Companion! 🎬
 
 Lights, camera, action! Dive into the world of cinema with Filmora, the ultimate movie app designed to bring the magic of movies right to your fingertips! 🌟
 
