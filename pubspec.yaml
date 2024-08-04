@@ -47,8 +47,7 @@ dependencies:
   provider: ^6.1.2
   cloud_firestore: ^4.17.0
   fluttertoast: ^8.2.5
-
-
+  icons_launcher: ^2.1.7
   equatable: ^2.0.5
   # add injectable to your dependencies
   injectable:
@@ -57,7 +56,20 @@ dependencies:
   flutter_bloc: ^8.1.5
   flutter_svg: ^2.0.10+1
 
-google_fonts: ^2.0.0
+icons_launcher:
+  image_path: "assets/images/movie.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
+
+
+
+
+
+
+
 
 
 dev_dependencies:
@@ -90,7 +102,7 @@ flutter:
   assets:
     - assets/images/
     - assets/fonts/
-#    - assets/svg/Search.svg
+  #    - assets/svg/Search.svg
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
